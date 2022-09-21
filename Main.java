@@ -31,9 +31,9 @@ public class Main {
 
         //Arrays
         String [] ogrenciler = new String[3];
-                ogrenciler[0] = "Cagatay";
-                ogrenciler[1] = "Ahmet";
-                ogrenciler[2] = "Mehmet";
+                ogrenciler[0] = "Beyza";
+                ogrenciler[1] = "Deniz";
+                ogrenciler[2] = "Müjgan";
 
 
 
